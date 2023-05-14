@@ -2,20 +2,20 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript,HTML,CSS,Java,],
+   code: [Javascript,HTML,CSS,Java],
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Bootstrap",]
+         css: ["Bootstrap"],
       },
       backEnd: {
-         java: ["Spring", "JPA","Thymeleaf"]
+         java: ["Spring","JPA","Thymeleaf"]
       },
-      databases: { ["mySQL"],
+      databases: {["mySQL"],
      },
-      tools: {["Git"]},
+      tools: {["Git"],
      },  
-     currentOccupation: ["Student, open for job opportunities"],
+     currentOccupation:["Student, open for job opportunities"],
    };
    
    ```  
