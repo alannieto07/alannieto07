@@ -10,12 +10,13 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring","JPA","Thymeleaf"]
+          php: ["essential(crud)"]  
       },
       databases: {["mySQL"],
      },
-      tools: {["Git"],
+      tools: {["Git + github"], 
      },  
-     currentOccupation:["Student, open for job opportunities"],
+     currentOccupation:["Full-Stack Java Developer for now :)"],
    };
    
    ```  
