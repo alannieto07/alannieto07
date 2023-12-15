@@ -16,7 +16,7 @@ const aboutMe = {
      },
       tools: {["Git + github"], 
      },  
-     currentOccupation:["Full-Stack Java Developer for now :)"],
+     currentOccupation:["Full Stack Java Developer for now :)"],
    };
    
    ```  
