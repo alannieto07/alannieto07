@@ -2,21 +2,22 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript,HTML,CSS,Java],
+   code: [Javascript,HTML5,CSS3,Java 8.0,Nodejs],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap"],
+         js: ["Reactjs"],
+         css: ["Bootstrap 5.3"],
       },
       backEnd: {
          java: ["Spring","JPA","Thymeleaf"]
-          php: ["essential(crud)"]  
+          php: ["essential(crud)"]
+          nodejs: ["express"]  
       },
-      databases: {["mySQL"],
+      databases: {["mySQL"],["mongoDB"],
      },
-      tools: {["Git + github"], 
+      tools: {["Git + github"],["Postman"]
      },  
-     currentOccupation:["Full Stack Java Developer for now :)"],
+     currentOccupation:["Full Stack Java & MERN Developer"],
    };
    
    ```  
