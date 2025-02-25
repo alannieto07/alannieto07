@@ -1,23 +1,25 @@
-### Hi, I´m Alan, I'm from Argentina and I'm a Trainee/JR.👋
+### Hi, I´m Alan, I'm from Argentina and I'm a Trainee/JR Developer.👋
 ```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript,HTML5,CSS3,Java 8.0,Nodejs],
-   technologies: {
-      frontEnd: {
+const AboutMe = {
+   Pronouns: "he" | "him",
+   Code: [Javascript,HTML5,CSS3,Java 8.0,Nodejs],
+   Technologies: {
+      FrontEnd: {
          js: ["Reactjs"],
          css: ["Bootstrap 5.3"],
       },
-      backEnd: {
+      BackEnd: {
          java: ["Spring","JPA","Thymeleaf"]
           php: ["essential(crud)"]
           nodejs: ["express"]  
       },
-      databases: {["mySQL"],["mongoDB"],
+      Databases: {["mySQL"],["mongoDB"],
      },
-      tools: {["Git + github"],["Postman"]
+      Tools: {["Git + github"],["Postman"]
      },  
-     currentOccupation:["Full Stack Java & MERN Developer"],
+     CurrentOccupation:["Full Stack Java & MERN Developer"],["Technical degree in programming
+      & computer systems Student"]
+      AdditionalKknowledge: ["Linux, repair and maintenance of PC hardware (currently learning)"],["installation of operating systems, optimization, and software formatting (currently          learning)"]
    };
    
    ```  
